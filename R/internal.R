@@ -466,6 +466,8 @@ out <- function(input, type = 1, ll = NULL, msg = FALSE, sign = "", verbose = ge
       toner_bg = "https://tiles.stadiamaps.com/tiles/stamen_toner_background/",
       terrain = "https://tiles.stadiamaps.com/tiles/stamen_terrain/",
       terrain_bg = "https://tiles.stadiamaps.com/tiles/stamen_terrain_background/",
+      terrain_lines = "https://tiles.stadiamaps.com/tiles/stamen_terrain_lines/",
+      terrain_labels = "https://tiles.stadiamaps.com/tiles/stamen_terrain_labels/",
       watercolor = "https://tiles.stadiamaps.com/tiles/stamen_watercolor/"
     ),
     osm_stadia = c(
